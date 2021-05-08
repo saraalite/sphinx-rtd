@@ -13,8 +13,8 @@ Another header:
 
 Some text.::
 
-    print('hello')
-    >> hello
+    print('I like readthedocs')
+    >> I like readthedocs
 
 Guide:
 ******
